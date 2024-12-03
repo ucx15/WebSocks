@@ -40,7 +40,7 @@ The Backend should be running on [http://localhost:5000](http://localhost:5000).
 
 ## Gallery
 
-![Img1](Assets/img1.png)
-![Img2](Assets/img2.png)
+![Img1](Showcase/img1.png)
+![Img2](Showcase/img2.png)
 
 [ucx15 @ GitHub](https://github.com/ucx15)
